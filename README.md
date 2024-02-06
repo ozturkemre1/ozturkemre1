@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working on **2D & 3D Games**
 - 💬 Ask me about **Unity, C#**
-- 📫 How to reach me **ozturkemre@mail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/ozturkemre1**
+- 📫 How to reach me **<a href="mailto:ozturkemre@mail.com" target="_blank">Email</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/ozturkemre1" target="_blank">Github</a>**
 
 <div> <a href="https://www.linkedin.com/in/ozturkemre1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ozturkemre1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
